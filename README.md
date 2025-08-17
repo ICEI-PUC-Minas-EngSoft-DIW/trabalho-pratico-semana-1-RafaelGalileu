@@ -7,11 +7,11 @@ Matricula: 904480
 
 ## Tela de inspeção com navegador
 
-![Tela de inspeção](images/rede%20(network)%20das%20ferramentas%20de%20desenvolvedor.png.png)
+![Tela de inspeção](images/rede_(network)_das_ferramentas_de_desenvolvedor.png.png.png)
 
 ## Tela de projeto no Replit
 
-![Tela de Projeto](images/Hello%20World,%20I'm%20Rafael.png.png)
+![Tela de Projeto](images/Hello_World,_I'm_Rafael.png.png.png)
 
 
 ## Orientações sobre Linguagem MarkDown
