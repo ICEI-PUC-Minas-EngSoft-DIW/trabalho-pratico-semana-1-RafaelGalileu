@@ -2,16 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Rafael Galileu Thales Oliveira
+Matricula: 904480
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+[<img src="./images/rede (network) das ferramentas de desenvolvedor.png.png"/>]
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+[<img src="./images/Hello World, I&apos;m Rafael.png.png"/>]
 
 
 ## Orientações sobre Linguagem MarkDown
